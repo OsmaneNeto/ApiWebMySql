@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWebMySql3dsn", "ApiWebMySql3dsn\ApiWebMySql3dsn.csproj", "{219C7E97-21CB-4B74-B92B-AB8B077E79FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219C7E97-21CB-4B74-B92B-AB8B077E79FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219C7E97-21CB-4B74-B92B-AB8B077E79FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219C7E97-21CB-4B74-B92B-AB8B077E79FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219C7E97-21CB-4B74-B92B-AB8B077E79FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732B23A0-B8F1-4941-B5FF-9A6683A5F273}
+	EndGlobalSection
+EndGlobal

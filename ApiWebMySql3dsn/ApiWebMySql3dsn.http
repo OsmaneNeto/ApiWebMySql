@@ -1,0 +1,6 @@
+@ApiWebMySql3dsn_HostAddress = http://localhost:5005
+
+GET {{ApiWebMySql3dsn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
